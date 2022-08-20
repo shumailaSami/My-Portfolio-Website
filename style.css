@@ -685,7 +685,7 @@ p{
 #footer .social-icon{    
     display: flex;
     margin-bottom: 30px;
-    margin-left: 120px;
+    margin-left: 80px;
     /* margin-right: 10px; */
     /* justify-content: space-around; */
 
@@ -935,15 +935,15 @@ p{
 /*projects*/
 
 .projects{
-    border: 5px solid green;
+    /* border: 5px solid green; */
 }
 
 .projects-header{
-    border: 2px solid red;
+    /* border: 2px solid red; */
 }
 
 .all-projects{    
-    border: 2px solid blue;
+    /* border: 2px solid blue; */
     margin:30px;
   display:flex;
   flex-direction:row;
@@ -955,17 +955,17 @@ p{
 .project-item{       
     padding-top: 250px; 
     flex:1 1 auto;
-  border:1px red solid;
+  /* border:1px red solid; */
   text-align:center;
   margin:5px;   
       }
 
 .project-info{
-    border: 10px solid black;    
+    /* border: 10px solid black;     */
 }
 
 .project-image{
-    border: 10px solid greenyellow;
+    /* border: 10px solid greenyellow; */
 }
 
 /* #projects .cta{
